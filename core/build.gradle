@@ -31,4 +31,6 @@ dependencies {
 
     //工具包
     compile 'com.blankj:utilcode:1.7.1'
+    //图片处理
+    compile 'com.github.bumptech.glide:glide:3.7.0'
 }
